@@ -1,17 +1,4 @@
-<!doctype html>
-<html>
-    <head>
-	<meta charset="utf-8">
-	<title>Home</title>
-    </head>
-    <body>
-	<nav>
-    <a href="/"style="color:red;">Home</a>
-    <a href="/about">About</a>
-    <a href="/why">Why?</a>
-</nav>
-
-	<h1 id="hello-friend">Hello, friend!</h1>
+I"t<h1 id="hello-friend">“Hello, friend!”</h1>
 
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>This site is for my reference and understanding of various tools and technologies I
 learned and will learn.
@@ -19,6 +6,4 @@ learned and will learn.
 It can be called as a blog also, which I will keep updating whenever I get the time.
 </code></pre></div></div>
 
-
-    </body>
-</html>
+:ET
